@@ -10,7 +10,7 @@ I've been developing for about 5 years. Including my time at Red Ventures, NC St
 *   🖥️  See my portfolio at [0xf0-mario.github.io](http://0xf0-mario.github.io)
 *   ✉️  You can contact me at [mariom3del@gmail.com](mailto:mariom3del@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects and ideas
-*   ⚡  Proving the P=NP
+*   ⚡  Proving that P=NP
 
 ### Skills 
 <p align="left">
